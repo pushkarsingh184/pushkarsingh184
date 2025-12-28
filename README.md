@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi there 👋<br><br>Nice meeting you, I'm Pushkar!<br><br>🔭I'm currently doing my graduation at IILM University, Greater Noida<br><br>💬Ask me about Web development related stuff<br><br>📫How to reach me: Threads-@laksh__yeah, Linkedin-@pushkar-singh-2b8a003a1<br><br>⚡Fun fact: If I am not coding then I am probably playing games or watching movies
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lakshya.singh.7545708) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laksh__yeah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-singh-2b8a003a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushkars1804@gmail.com) 
