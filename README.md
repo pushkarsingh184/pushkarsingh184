@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Pushkar!<br><br>🔭I'm currently doing my graduation at IILM University, Greater Noida<br><br>💬Ask me about Web development related stuff<br><br>📫How to reach me: Threads-@laksh__yeah, Linkedin-www.linkedin.com/in/pushkarsingh184<br><br>⚡Fun fact: If I am not coding then I am probably playing games or watching movies
+Hi there 👋<br><br>Nice meeting you, I'm Pushkar!<br><br>🔭I'm currently doing my graduation at IILM University, Greater Noida<br><br>💬Ask me about Web development related stuff<br><br>📫How to reach me: Threads-@laksh__yeah, Linkedin-@pushkarsingh184<br><br>⚡Fun fact: If I am not coding then I am probably playing games or watching movies
 
 
 ## 🌐 Socials:
